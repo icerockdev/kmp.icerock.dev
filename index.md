@@ -57,7 +57,12 @@
 * https://github.com/reduxkotlin/redux-kotlin - redux для общего кода;
 * https://github.com/oolong-kt/oolong - MVU архитектурные компоненты;
 * https://github.com/yshrsmz/BuildKonfig - генерация класса конфигурации как BuildConfig в android, но для общего кода;
-* https://github.com/AAkira/Napier - библиотека логирования для общего кода.
+* https://github.com/AAkira/Napier - библиотека логирования для общего кода;
+* https://github.com/noheltcj/RxCommon - реактивщина, без многопоточности;
+* https://github.com/korlibs/kbignum - bigint, bigdecimal;
+* https://github.com/korlibs/krypto - secureRandom, sha1, sha256, md5, hash, aes;
+* https://github.com/netguru/Kissme - защищенное key-value хранилище;
+* https://github.com/Kodein-Framework/Kodein-DI - DI работающий в рантайме.
 
 ## Полезные плагины
 * https://github.com/icerockdev/mobile-multiplatform-gradle-plugin - плагин для упрощения настройки mobile multiplatform проектов;
