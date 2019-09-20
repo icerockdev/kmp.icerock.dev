@@ -57,6 +57,7 @@
 * https://github.com/reduxkotlin/redux-kotlin - redux для общего кода;
 * https://github.com/oolong-kt/oolong - MVU архитектурные компоненты;
 * https://github.com/yshrsmz/BuildKonfig - генерация класса конфигурации как BuildConfig в android, но для общего кода;
+* https://github.com/Karumi/Hagu - еще один генератор конфигурации;
 * https://github.com/AAkira/Napier - библиотека логирования для общего кода;
 * https://github.com/noheltcj/RxCommon - реактивщина, без многопоточности;
 * https://github.com/korlibs/kbignum - bigint, bigdecimal;
