@@ -26,7 +26,8 @@
 * [https://github.com/cmota/droidconLX](https://github.com/cmota/droidconLX) - приложение для конференции DroidCon (android + ios) с базой данных;
 * [https://github.com/wiyarmir/kotlin-multiplatform-mobile-template](https://github.com/wiyarmir/kotlin-multiplatform-mobile-template) - шаблон мобильного мультиплатформенного проекта;
 * [https://github.com/webfactorymk/kotlin-multiplatform-currency-converter](https://github.com/webfactorymk/kotlin-multiplatform-currency-converter) - пример под мобилки с модульностью;
-* [https://github.com/russhwolf/multiplatform-hello](https://github.com/russhwolf/multiplatform-hello) - мобилки, бекенд, юниттесты.
+* [https://github.com/russhwolf/multiplatform-hello](https://github.com/russhwolf/multiplatform-hello) - мобилки, бекенд, юниттесты;
+* [https://github.com/jarroyoesp/KotlinMultiPlatform](https://github.com/jarroyoesp/KotlinMultiPlatform) - android, ios, web app, desktop jvm app, ktor, serialization, sqldelight, mockk.
 
 ## Официальные библиотеки
 * [https://github.com/Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - для работы с асинхронным кодом (пока без поддержки многопоточности в K/N);
