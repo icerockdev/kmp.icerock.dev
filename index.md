@@ -57,6 +57,7 @@
 * [https://github.com/noheltcj/RxCommon](https://github.com/noheltcj/RxCommon) - реактивщина, без многопоточности;
 * [https://github.com/andrewemery/livedata](https://github.com/andrewemery/livedata) - прямой конверт LiveData в mpp;
 * [https://github.com/mirego/trikot.streams](https://github.com/mirego/trikot.streams) - реактивные потоки, с многопоточностью;
+* [https://github.com/florent37/Multiplatform-LiveData](https://github.com/florent37/Multiplatform-LiveData) - порт LiveData в mpp;
 
 ### Multithreading
 * [https://github.com/Autodesk/coroutineworker](https://github.com/Autodesk/coroutineworker) - многопоточные корутины;
@@ -72,6 +73,7 @@
 * [https://github.com/korlibs/klock](https://github.com/korlibs/klock) - работа с датами и временем, включая таймзоны и форматирование;
 * [https://github.com/fluidsonic/fluid-time](https://github.com/fluidsonic/fluid-time) - работа с датами и временем, включая таймзоны;
 * [https://github.com/lightningkite/lokalize](https://github.com/lightningkite/lokalize) - информация о локали и простая работа со временем (без таймзон);
+* [https://github.com/MrAsterisco/Time](https://github.com/MrAsterisco/Time) - duration api;
 
 ### Logging
 * [https://github.com/AAkira/Napier](https://github.com/AAkira/Napier) - библиотека логирования для общего кода (Timber like);
@@ -98,7 +100,9 @@
 * [https://github.com/sellmair/kompass](https://github.com/sellmair/kompass) - роутинг в общем коде (но пока нет нормального примера под айос);
 * [https://github.com/benasher44/uuid](https://github.com/benasher44/uuid) - генерация UUID;
 * [https://github.com/korlibs/krypto](https://github.com/korlibs/krypto) - secureRandom, sha1, sha256, md5, hash, aes;
-
+* [https://github.com/korlibs/korim](https://github.com/korlibs/korim) - работа с изображениями разных форматов из общего кода;
+* [https://github.com/korlibs/korau](https://github.com/korlibs/korau) - работа с аудио файлами разных форматов из общего кода;
+* [https://github.com/florent37/Multiplatform-Bus](https://github.com/florent37/Multiplatform-Bus) - eventbus;
 
 ## Полезные плагины
 * [https://github.com/icerockdev/mobile-multiplatform-gradle-plugin](https://github.com/icerockdev/mobile-multiplatform-gradle-plugin) - плагин для упрощения настройки mobile multiplatform проектов;android, но для общего кода;
