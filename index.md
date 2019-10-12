@@ -47,6 +47,7 @@
 * [https://github.com/square/sqldelight](https://github.com/square/sqldelight) - база данных для общего кода (с генерацией DAO);
 * [https://github.com/netguru/Kissme](https://github.com/netguru/Kissme) - защищенное key-value хранилище;
 * [https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/fs](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/fs) - работа с файловой системой;
+* [https://github.com/touchlab/SQLiter/tree/master/SQLiter](https://github.com/touchlab/SQLiter/tree/master/SQLiter) - прямой доступ к SQLite;
 
 ### Reactive
 * [https://github.com/icerockdev/moko-mvvm](https://github.com/icerockdev/moko-mvvm) - LiveData с операторами;
@@ -54,6 +55,7 @@
 * [https://github.com/lightningkite/reacktive](https://github.com/lightningkite/reacktive) - реактивщина, но без многопоточности;
 * [https://github.com/noheltcj/RxCommon](https://github.com/noheltcj/RxCommon) - реактивщина, без многопоточности;
 * [https://github.com/andrewemery/livedata](https://github.com/andrewemery/livedata) - прямой конверт LiveData в mpp;
+* [https://github.com/mirego/trikot.streams](https://github.com/mirego/trikot.streams) - реактивные потоки, с многопоточностью;
 
 ### Multithreading
 * [https://github.com/Autodesk/coroutineworker](https://github.com/Autodesk/coroutineworker) - многопоточные корутины;
@@ -66,11 +68,14 @@
 * [https://github.com/lightningkite/kommunicate](https://github.com/lightningkite/kommunicate) - сетевая библиотека для [http](http) запросов и вебсокетов от комьюнити;
 
 ### DateTime
+* [https://github.com/korlibs/klock](https://github.com/korlibs/klock) - работа с датами и временем, включая таймзоны и форматирование;
+* [https://github.com/fluidsonic/fluid-time](https://github.com/fluidsonic/fluid-time) - работа с датами и временем, включая таймзоны;
 * [https://github.com/lightningkite/lokalize](https://github.com/lightningkite/lokalize) - информация о локали и простая работа со временем (без таймзон);
 
 ### Logging
 * [https://github.com/AAkira/Napier](https://github.com/AAkira/Napier) - библиотека логирования для общего кода (Timber like);
 * [https://github.com/korlibs/klogger](https://github.com/korlibs/klogger) - библиотека логирования для общего кода;
+* [https://github.com/florent37/Multiplatform-Log](https://github.com/florent37/Multiplatform-Log) - логгер;
 
 ### Math
 * [https://github.com/ionspin/kotlin-multiplatform-bignum](https://github.com/ionspin/kotlin-multiplatform-bignum) - поддержка больших чисел (android, ios);
@@ -84,6 +89,7 @@
 * [https://github.com/icerockdev/moko-resources](https://github.com/icerockdev/moko-resources) - доступ к ресурсам локализации из общего кода;
 * [https://github.com/icerockdev/moko-permissions](https://github.com/icerockdev/moko-permissions) - работа с рантайм разрешениями из общего кода;
 * [https://github.com/icerockdev/moko-media](https://github.com/icerockdev/moko-media) - получение фото/видео из общего кода;
+* [https://github.com/Reedyuk/blue-falcon](https://github.com/Reedyuk/blue-falcon) - работа с Bluetooth LE;
 
 ### Others
 * [https://github.com/icerockdev/moko-core](https://github.com/icerockdev/moko-core) - базовые классы для mobile multiplatform;
