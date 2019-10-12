@@ -36,40 +36,74 @@
 * [https://github.com/ktorio/ktor](https://github.com/ktorio/ktor) - сетевой клиент для общего кода.
 
 ## Библиотеки от community
+### Architecture
 * [https://github.com/icerockdev/moko-mvvm](https://github.com/icerockdev/moko-mvvm) - архитектурные компоненты MVVM для mobile multiplatform;
+* [https://github.com/reduxkotlin/redux-kotlin](https://github.com/reduxkotlin/redux-kotlin) - redux для общего кода;
+* [https://github.com/oolong-kt/oolong](https://github.com/oolong-kt/oolong) - MVU архитектурные компоненты;
+* [https://github.com/DrewCarlson/kotlin-mobius](https://github.com/DrewCarlson/kotlin-mobius) - [Mobius](https://github.com/spotify/mobius) от spotify в multiplatform вариации;
+
+### Storage
+* [https://github.com/russhwolf/multiplatform-settings](https://github.com/russhwolf/multiplatform-settings) - работа с SharedPreferences/UserDefaults из общего кода;
+* [https://github.com/square/sqldelight](https://github.com/square/sqldelight) - база данных для общего кода (с генерацией DAO);
+* [https://github.com/netguru/Kissme](https://github.com/netguru/Kissme) - защищенное key-value хранилище;
+* [https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/fs](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/fs) - работа с файловой системой;
+
+### Reactive
+* [https://github.com/icerockdev/moko-mvvm](https://github.com/icerockdev/moko-mvvm) - LiveData с операторами;
+* [https://github.com/badoo/Reaktive](https://github.com/badoo/Reaktive) - Rx для общего кода (с поддержкой многопоточности в K/N);
+* [https://github.com/lightningkite/reacktive](https://github.com/lightningkite/reacktive) - реактивщина, но без многопоточности;
+* [https://github.com/noheltcj/RxCommon](https://github.com/noheltcj/RxCommon) - реактивщина, без многопоточности;
+* [https://github.com/andrewemery/livedata](https://github.com/andrewemery/livedata) - прямой конверт LiveData в mpp;
+
+### Multithreading
+* [https://github.com/Autodesk/coroutineworker](https://github.com/Autodesk/coroutineworker) - многопоточные корутины;
+* [https://github.com/touchlab/Stately/](https://github.com/touchlab/Stately/) - разные типы данных для работы в многопоточном режиме в K/N;
+* [https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/concurrency](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/concurrency) - многопоточность для общего кода в стиле требований K/N;
+
+### Networking
+* [https://github.com/icerockdev/moko-network](https://github.com/icerockdev/moko-network) - генерация ktor-client api из OpenAPI спецификации;
+* [https://github.com/yshrsmz/kgql](https://github.com/yshrsmz/kgql) - GraphQL в общем коде - jvm/android/ios;
+* [https://github.com/lightningkite/kommunicate](https://github.com/lightningkite/kommunicate) - сетевая библиотека для [http](http) запросов и вебсокетов от комьюнити;
+
+### DateTime
+* [https://github.com/lightningkite/lokalize](https://github.com/lightningkite/lokalize) - информация о локали и простая работа со временем (без таймзон);
+
+### Logging
+* [https://github.com/AAkira/Napier](https://github.com/AAkira/Napier) - библиотека логирования для общего кода (Timber like);
+* [https://github.com/korlibs/klogger](https://github.com/korlibs/klogger) - библиотека логирования для общего кода;
+
+### Math
+* [https://github.com/ionspin/kotlin-multiplatform-bignum](https://github.com/ionspin/kotlin-multiplatform-bignum) - поддержка больших чисел (android, ios);
+* [https://github.com/lightningkite/recktangle](https://github.com/lightningkite/recktangle) - геометрические классы для математических расчетов;
+* [https://github.com/korlibs/kbignum](https://github.com/korlibs/kbignum) - bigint, bigdecimal;
+
+### Dependency Injection
+* [https://github.com/Kodein-Framework/Kodein-DI](https://github.com/Kodein-Framework/Kodein-DI) - DI работающий в рантайме.
+
+### Mobile specific
 * [https://github.com/icerockdev/moko-resources](https://github.com/icerockdev/moko-resources) - доступ к ресурсам локализации из общего кода;
 * [https://github.com/icerockdev/moko-permissions](https://github.com/icerockdev/moko-permissions) - работа с рантайм разрешениями из общего кода;
 * [https://github.com/icerockdev/moko-media](https://github.com/icerockdev/moko-media) - получение фото/видео из общего кода;
+
+### Others
 * [https://github.com/icerockdev/moko-core](https://github.com/icerockdev/moko-core) - базовые классы для mobile multiplatform;
-* [https://github.com/badoo/Reaktive](https://github.com/badoo/Reaktive) - Rx для общего кода (с поддержкой многопоточности в K/N);
-* [https://github.com/russhwolf/multiplatform-settings](https://github.com/russhwolf/multiplatform-settings) - работа с SharedPreferences/UserDefaults из общего кода;
-* [https://github.com/square/sqldelight](https://github.com/square/sqldelight) - база данных для общего кода (с генерацией DAO);
-* [https://github.com/Autodesk/coroutineworker](https://github.com/Autodesk/coroutineworker) - многопоточные корутины;
-* [https://github.com/touchlab/Stately/](https://github.com/touchlab/Stately/) - разные типы данных для работы в многопоточном режиме в K/N;
-* [https://github.com/lightningkite/lokalize](https://github.com/lightningkite/lokalize) - информация о локали и простая работа со временем (без таймзон);
-* [https://github.com/lightningkite/reacktive](https://github.com/lightningkite/reacktive) - реактивщина, но без многопоточности;
-* [https://github.com/lightningkite/recktangle](https://github.com/lightningkite/recktangle) - геометрические классы для математических расчетов;
-* [https://github.com/lightningkite/kommunicate](https://github.com/lightningkite/kommunicate) - сетевая библиотека для [http](http) запросов и вебсокетов от комьюнити;
-* [https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/concurrency](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/concurrency) - многопоточность для общего кода в стиле требований K/N;
-* [https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/fs](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/fs) - работа с файловой системой;
 * [https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/cache](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/cache) - inmem кеширование для общего кода;
 * [https://github.com/sellmair/kompass](https://github.com/sellmair/kompass) - роутинг в общем коде (но пока нет нормального примера под айос);
-* [https://github.com/yshrsmz/kgql](https://github.com/yshrsmz/kgql) - GraphQL в общем коде - jvm/android/ios;
 * [https://github.com/benasher44/uuid](https://github.com/benasher44/uuid) - генерация UUID;
-* [https://github.com/ionspin/kotlin-multiplatform-bignum](https://github.com/ionspin/kotlin-multiplatform-bignum) - поддержка больших чисел (android, ios);
-* [https://github.com/reduxkotlin/redux-kotlin](https://github.com/reduxkotlin/redux-kotlin) - redux для общего кода;
-* [https://github.com/oolong-kt/oolong](https://github.com/oolong-kt/oolong) - MVU архитектурные компоненты;
-* [https://github.com/yshrsmz/BuildKonfig](https://github.com/yshrsmz/BuildKonfig) - генерация класса конфигурации как BuildConfig в android, но для общего кода;
-* [https://github.com/Karumi/Hagu](https://github.com/Karumi/Hagu) - еще один генератор конфигурации;
-* [https://github.com/AAkira/Napier](https://github.com/AAkira/Napier) - библиотека логирования для общего кода;
-* [https://github.com/noheltcj/RxCommon](https://github.com/noheltcj/RxCommon) - реактивщина, без многопоточности;
-* [https://github.com/korlibs/kbignum](https://github.com/korlibs/kbignum) - bigint, bigdecimal;
 * [https://github.com/korlibs/krypto](https://github.com/korlibs/krypto) - secureRandom, sha1, sha256, md5, hash, aes;
-* [https://github.com/netguru/Kissme](https://github.com/netguru/Kissme) - защищенное key-value хранилище;
-* [https://github.com/Kodein-Framework/Kodein-DI](https://github.com/Kodein-Framework/Kodein-DI) - DI работающий в рантайме.
+
 
 ## Полезные плагины
-* [https://github.com/icerockdev/mobile-multiplatform-gradle-plugin](https://github.com/icerockdev/mobile-multiplatform-gradle-plugin) - плагин для упрощения настройки mobile multiplatform проектов;
+* [https://github.com/icerockdev/mobile-multiplatform-gradle-plugin](https://github.com/icerockdev/mobile-multiplatform-gradle-plugin) - плагин для упрощения настройки mobile multiplatform проектов;android, но для общего кода;
 * [https://github.com/Kotlin/dokka](https://github.com/Kotlin/dokka) - генератор документации к kotlin коду;
-* [https://github.com/whyoleg/kamp](https://github.com/whyoleg/kamp) - annotation processor для всех котлин платформ (и native тоже);
+* [https://github.com/whyoleg/kamp](https://github.com/whyoleg/kamp) - набор предзаполненной конфигурации для mpp проектов;
+* [https://github.com/Foso/MpApt](https://github.com/Foso/MpApt) - annotation processor для mpp.
+
+### Configuration
+* [https://github.com/gmazzo/gradle-buildconfig-plugin](https://github.com/gmazzo/gradle-buildconfig-plugin) - генерация конфигурации;
+* [https://github.com/yshrsmz/BuildKonfig](https://github.com/yshrsmz/BuildKonfig) - генерация класса конфигурации как BuildConfig в android;
+* [https://github.com/Karumi/Hagu](https://github.com/Karumi/Hagu) - еще один генератор конфигурации;
+
+### Coroutines
+* [https://github.com/andrewemery/recast](https://github.com/andrewemery/recast) - генерация функций с callback из suspend функций в kotlin/native;
 * [https://github.com/feilfeilundfeil/kotlin-native-suspend-function-callback](https://github.com/feilfeilundfeil/kotlin-native-suspend-function-callback) - генерация функций с callback из suspend функций в kotlin/native.
