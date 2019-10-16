@@ -30,6 +30,7 @@
 * [https://github.com/jarroyoesp/KotlinMultiPlatform](https://github.com/jarroyoesp/KotlinMultiPlatform) - android, ios, web app, desktop jvm app, ktor, serialization, sqldelight, mockk;
 * [https://github.com/Karumi/KotlinMultiplatformApp](https://github.com/Karumi/KotlinMultiplatformApp) - android, ios, ktor, coroutines, serialization, detekt, ktlint;
 * [https://github.com/jeremyrempel/gitnotes](https://github.com/jeremyrempel/gitnotes) - network, mobile;
+* [https://github.com/petrumo/KotlinMultiplatformMVI](https://github.com/petrumo/KotlinMultiplatformMVI) - mvi mobile, android, ios;
 
 ## Официальные библиотеки
 * [https://github.com/Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - для работы с асинхронным кодом (пока без поддержки многопоточности в K/N);
