@@ -43,6 +43,7 @@
 * [https://github.com/reduxkotlin/redux-kotlin](https://github.com/reduxkotlin/redux-kotlin) - redux для общего кода;
 * [https://github.com/oolong-kt/oolong](https://github.com/oolong-kt/oolong) - MVU архитектурные компоненты;
 * [https://github.com/DrewCarlson/kotlin-mobius](https://github.com/DrewCarlson/kotlin-mobius) - [Mobius](https://github.com/spotify/mobius) от spotify в multiplatform вариации;
+* [https://github.com/adevone/summer](https://github.com/adevone/summer) - mvp компоненты;
 
 ### Storage
 * [https://github.com/russhwolf/multiplatform-settings](https://github.com/russhwolf/multiplatform-settings) - работа с SharedPreferences/UserDefaults из общего кода;
