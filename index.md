@@ -47,6 +47,7 @@
 
 ### Storage
 * [https://github.com/russhwolf/multiplatform-settings](https://github.com/russhwolf/multiplatform-settings) - работа с SharedPreferences/UserDefaults из общего кода;
+* [https://github.com/florent37/Multiplatform-Preferences](https://github.com/florent37/Multiplatform-Preferences) - работа с SharedPreferences/UserDefaults из общего кода;
 * [https://github.com/square/sqldelight](https://github.com/square/sqldelight) - база данных для общего кода (с генерацией DAO);
 * [https://github.com/netguru/Kissme](https://github.com/netguru/Kissme) - защищенное key-value хранилище;
 * [https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/fs](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/fs) - работа с файловой системой;
