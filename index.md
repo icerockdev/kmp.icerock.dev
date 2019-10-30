@@ -77,6 +77,7 @@
 * [https://github.com/fluidsonic/fluid-time](https://github.com/fluidsonic/fluid-time) - работа с датами и временем, включая таймзоны;
 * [https://github.com/lightningkite/lokalize](https://github.com/lightningkite/lokalize) - информация о локали и простая работа со временем (без таймзон);
 * [https://github.com/MrAsterisco/Time](https://github.com/MrAsterisco/Time) - duration api;
+* [https://github.com/erikc5000/island-time](https://github.com/erikc5000/island-time) - работа с датой, временем, таймзоны, форматирование. Библиотека позиционируется как java.time порт в mpp;
 
 ### Logging
 * [https://github.com/AAkira/Napier](https://github.com/AAkira/Napier) - библиотека логирования для общего кода (Timber like);
