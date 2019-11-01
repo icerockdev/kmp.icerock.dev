@@ -44,6 +44,7 @@
 * [https://github.com/oolong-kt/oolong](https://github.com/oolong-kt/oolong) - MVU архитектурные компоненты;
 * [https://github.com/DrewCarlson/kotlin-mobius](https://github.com/DrewCarlson/kotlin-mobius) - [Mobius](https://github.com/spotify/mobius) от spotify в multiplatform вариации;
 * [https://github.com/adevone/summer](https://github.com/adevone/summer) - mvp компоненты;
+* [https://github.com/gumil/Kaskade](https://github.com/gumil/Kaskade) - MVI unidirectional data flow;
 
 ### Storage
 * [https://github.com/russhwolf/multiplatform-settings](https://github.com/russhwolf/multiplatform-settings) - работа с SharedPreferences/UserDefaults из общего кода;
