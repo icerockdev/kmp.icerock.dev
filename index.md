@@ -72,6 +72,7 @@
 * [https://github.com/icerockdev/moko-network](https://github.com/icerockdev/moko-network) - генерация ktor-client api из OpenAPI спецификации;
 * [https://github.com/yshrsmz/kgql](https://github.com/yshrsmz/kgql) - GraphQL в общем коде - jvm/android/ios;
 * [https://github.com/lightningkite/kommunicate](https://github.com/lightningkite/kommunicate) - сетевая библиотека для [http](http) запросов и вебсокетов от комьюнити;
+* [https://github.com/luca992/kEasySocket](https://github.com/luca992/kEasySocket) - websocket - jvm/ios;
 
 ### DateTime
 * [https://github.com/korlibs/klock](https://github.com/korlibs/klock) - работа с датами и временем, включая таймзоны и форматирование;
