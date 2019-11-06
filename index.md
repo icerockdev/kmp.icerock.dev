@@ -53,6 +53,7 @@
 * [https://github.com/netguru/Kissme](https://github.com/netguru/Kissme) - защищенное key-value хранилище;
 * [https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/fs](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/fs) - работа с файловой системой;
 * [https://github.com/touchlab/SQLiter/tree/master/SQLiter](https://github.com/touchlab/SQLiter/tree/master/SQLiter) - прямой доступ к SQLite;
+* [https://github.com/touchlab/FirestoreKMP](https://github.com/touchlab/FirestoreKMP) - firebase storage из общего кода.
 
 ### Reactive
 * [https://github.com/icerockdev/moko-mvvm](https://github.com/icerockdev/moko-mvvm) - LiveData с операторами;
