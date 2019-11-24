@@ -3,10 +3,10 @@
 * Телеграм канал с новостями по mobile multiplatform, обзором библиотек и кейсов из разработки - [https://t.me/kotlinmpp](https://t.me/kotlinmpp).
 
 ## Видео выступлений
-* SaintAppsConf 2019: [https://www.youtube.com/watch?v=kO8RDq6OoV4](Мобильная разработка на Kotlin MultiPlatform / Алексей Михайлов (IceRock)) - расказаны важные особенности на стыке Kotlin и Swift, что нужно учитывать чтобы получившийся из Kotlin фреймворк был удобен обеим платформам, а так же обзорно разобраны moko библиотеки;
-* Kotlin/Everywhere Minsk: [https://www.youtube.com/watch?v=h9ioWnSlUJc]("iOS & Kotlin. Путь приложения от начала до публикации в AppStore" - Андрей Ковалёв@IceRock) - разработка первого Kotlin Multiplatform проекта от лица iOS разработчика;
-* Kotlin/Everywhere Minsk: [https://www.youtube.com/watch?v=w546bAHoh3c]("Kotlin Multiplatform с точки зрения бизнеса" - Александр Погребняк@IceRock) - что дает технология бизнесу (поможет убедить менеджеров разрешить использование технологии);
-* Kotlin/Everywhere Minsk: [https://www.youtube.com/watch?v=DJalTyA3p_w]("Reaktive: реактивное программирование в Kotlin Multiplatform" - Аркадий Иванов@Badoo) - о портировании Rx в kotlin multiplatform, какие особенности были, как это теперь можно использовать.
+* SaintAppsConf 2019: [Мобильная разработка на Kotlin MultiPlatform / Алексей Михайлов (IceRock)](https://www.youtube.com/watch?v=kO8RDq6OoV4) - расказаны важные особенности на стыке Kotlin и Swift, что нужно учитывать чтобы получившийся из Kotlin фреймворк был удобен обеим платформам, а так же обзорно разобраны moko библиотеки;
+* Kotlin/Everywhere Minsk: ["iOS & Kotlin. Путь приложения от начала до публикации в AppStore" - Андрей Ковалёв@IceRock](https://www.youtube.com/watch?v=h9ioWnSlUJc) - разработка первого Kotlin Multiplatform проекта от лица iOS разработчика;
+* Kotlin/Everywhere Minsk: ["Kotlin Multiplatform с точки зрения бизнеса" - Александр Погребняк@IceRock](https://www.youtube.com/watch?v=w546bAHoh3c) - что дает технология бизнесу (поможет убедить менеджеров разрешить использование технологии);
+* Kotlin/Everywhere Minsk: ["Reaktive: реактивное программирование в Kotlin Multiplatform" - Аркадий Иванов@Badoo](https://www.youtube.com/watch?v=DJalTyA3p_w) - о портировании Rx в kotlin multiplatform, какие особенности были, как это теперь можно использовать.
 
 ## Полезные ресурсы
 * [https://kotlinlang.slack.com](https://kotlinlang.slack.com) (#kotlin-native , #multiplatform)
