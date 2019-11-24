@@ -1,4 +1,7 @@
 # Kotlin Mobile MultiPlatform
+## Пример разработки на виджетов (с Kotlin/Everywhere Nsk)
+[Alex009/moko-template](https://github.com/Alex009/moko-template)
+
 ## Актуальные новости
 * Телеграм канал с новостями по mobile multiplatform, обзором библиотек и кейсов из разработки - [https://t.me/kotlinmpp](https://t.me/kotlinmpp).
 
