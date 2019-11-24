@@ -1,4 +1,13 @@
 # Kotlin Mobile MultiPlatform
+## Актуальные новости
+* Телеграм канал с новостями по mobile multiplatform, обзором библиотек и кейсов из разработки - [https://t.me/kotlinmpp](https://t.me/kotlinmpp).
+
+## Видео выступлений
+* SaintAppsConf 2019: [https://www.youtube.com/watch?v=kO8RDq6OoV4](Мобильная разработка на Kotlin MultiPlatform / Алексей Михайлов (IceRock)) - расказаны важные особенности на стыке Kotlin и Swift, что нужно учитывать чтобы получившийся из Kotlin фреймворк был удобен обеим платформам, а так же обзорно разобраны moko библиотеки;
+* Kotlin/Everywhere Minsk: [https://www.youtube.com/watch?v=h9ioWnSlUJc]("iOS & Kotlin. Путь приложения от начала до публикации в AppStore" - Андрей Ковалёв@IceRock) - разработка первого Kotlin Multiplatform проекта от лица iOS разработчика;
+* Kotlin/Everywhere Minsk: [https://www.youtube.com/watch?v=w546bAHoh3c]("Kotlin Multiplatform с точки зрения бизнеса" - Александр Погребняк@IceRock) - что дает технология бизнесу (поможет убедить менеджеров разрешить использование технологии);
+* Kotlin/Everywhere Minsk: [https://www.youtube.com/watch?v=DJalTyA3p_w]("Reaktive: реактивное программирование в Kotlin Multiplatform" - Аркадий Иванов@Badoo) - о портировании Rx в kotlin multiplatform, какие особенности были, как это теперь можно использовать.
+
 ## Полезные ресурсы
 * [https://kotlinlang.slack.com](https://kotlinlang.slack.com) (#kotlin-native , #multiplatform)
 * [https://kotlinlang.org/docs/reference/multiplatform.html](https://kotlinlang.org/docs/reference/multiplatform.html)
@@ -9,11 +18,11 @@
 * [https://medium.com/@kpgalligan](https://medium.com/@kpgalligan)
 
 ## Еще полезные ресурсы, от IceRock
-* Телеграм канал с новостями по mobile multiplatform, обзором библиотек и кейсов из разработки - [https://t.me/kotlinmpp](https://t.me/kotlinmpp)
 * Блог в medium - [https://medium.com/@icerock](https://medium.com/@icerock)
   * [Опыт работы с Kotlin Multiplatform за 10 месяцев](https://medium.com/@icerock/%D0%BE%D0%BF%D1%8B%D1%82-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D1%81-kotlin-multiplatform-%D0%B7%D0%B0-10-%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5%D0%B2-435a7e08e52d) - хронологический разбор с чем мы столкнулись за первые 10 месяцев работы с Kotlin MultiPlatform.
 * GitHub - [https://github.com/icerockdev](https://github.com/icerockdev)
-  * [https://github.com/icerockdev/mobile-multiplatform-education](https://github.com/icerockdev/mobile-multiplatform-education) - пошаговое создание мультиплатформенного проекта с нуля (1 коммит - 1 шаг), проект ведется в пределах внутреннего обучения сотрудников, но по коммитам можно и внешним людям обучаться (в будущем будет codelabs сделаны).
+  * [https://github.com/icerockdev/mobile-multiplatform-education](https://github.com/icerockdev/mobile-multiplatform-education) - пошаговое создание мультиплатформенного проекта с нуля (1 коммит - 1 шаг), проект ведется в пределах внутреннего обучения сотрудников, но по коммитам можно и внешним людям обучаться (в будущем будет codelabs сделаны);
+* Codelabs уроки - [https://codelabs.kmp.icerock.dev/](https://codelabs.kmp.icerock.dev/). Несколько уроков по изучению Kotlin Multiplatform для мобильной разработки.
 
 ## Проекты примеры
 * [https://github.com/JetBrains/kotlinconf-app](https://github.com/JetBrains/kotlinconf-app) - официальное приложение KotlinConf - backend, android, ios с общим кодом;
