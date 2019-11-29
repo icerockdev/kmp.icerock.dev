@@ -50,8 +50,36 @@
 * [https://github.com/ktorio/ktor](https://github.com/ktorio/ktor) - сетевой клиент для общего кода.
 
 ## Библиотеки от community
+### MOKO
+* [https://github.com/icerockdev/moko-mvvm](https://github.com/icerockdev/moko-mvvm) - архитектурные компоненты MVVM для mobile multiplatform + LiveData с операторами;
+* [https://github.com/icerockdev/moko-network](https://github.com/icerockdev/moko-network) - генерация ktor-client api из OpenAPI спецификации;
+* [https://github.com/icerockdev/moko-resources](https://github.com/icerockdev/moko-resources) - доступ к ресурсам локализации из общего кода;
+* [https://github.com/icerockdev/moko-permissions](https://github.com/icerockdev/moko-permissions) - работа с рантайм разрешениями из общего кода;
+* [https://github.com/icerockdev/moko-media](https://github.com/icerockdev/moko-media) - получение фото/видео из общего кода;
+* [https://github.com/icerockdev/moko-fields](https://github.com/icerockdev/moko-fields) - компонент для полей заполнения данных с валидацией;
+* [https://github.com/icerockdev/moko-units](https://github.com/icerockdev/moko-units) - RecyclerViewAdapter/UITableViewDataSource/UICollectionViewDataSource с заполнением списка из общего кода, delegate datasource;
+* [https://github.com/icerockdev/moko-graphics](https://github.com/icerockdev/moko-graphics) - классы для работы с графикой в mpp;
+* [https://github.com/icerockdev/moko-parcelize](https://github.com/icerockdev/moko-parcelize) - поддержка @Parcelize в common коде;
+* [https://github.com/icerockdev/moko-time](https://github.com/icerockdev/moko-time) - таймеры и работа со временем;
+* [https://github.com/icerockdev/moko-widgets](https://github.com/icerockdev/moko-widgets) - мультиплатформенный UI (позволяет создавать android + ios приложения полностью из common кода);
+
+### Trikot
+* [https://github.com/mirego/trikot.foundation](https://github.com/mirego/trikot.foundation) - небольшие полезные компоненты - таймеры, работа с датами, mpp AtomicReference, freeze и очереди для многопоточности;
+* [https://github.com/mirego/trikot.http](https://github.com/mirego/trikot.http) - http клиент, использующий kotlinx.serialization. Аналог ktor-client;
+* [https://github.com/mirego/trikot.kword](https://github.com/mirego/trikot.kword) - мультиплатформенная локализация с использованием [Accent](https://www.accent.reviews/);
+* [https://github.com/mirego/trikot.metaviews](https://github.com/mirego/trikot.metaviews) - абстракции UI в общем коде, для привязки данных из common кода;
+* [https://github.com/mirego/trikot.streams](https://github.com/mirego/trikot.streams) - реактивные потоки, с многопоточностью;
+
+### Korlibs
+* [https://github.com/korlibs/klogger](https://github.com/korlibs/klogger) - библиотека логирования для общего кода;
+* [https://github.com/korlibs/klock](https://github.com/korlibs/klock) - работа с датами и временем, включая таймзоны и форматирование;
+* [https://github.com/korlibs/kbignum](https://github.com/korlibs/kbignum) - bigint, bigdecimal;
+* [https://github.com/korlibs/krypto](https://github.com/korlibs/krypto) - secureRandom, sha1, sha256, md5, hash, aes;
+* [https://github.com/korlibs/korim](https://github.com/korlibs/korim) - работа с изображениями разных форматов из общего кода;
+* [https://github.com/korlibs/korau](https://github.com/korlibs/korau) - работа с аудио файлами разных форматов из общего кода;
+
+
 ### Architecture
-* [https://github.com/icerockdev/moko-mvvm](https://github.com/icerockdev/moko-mvvm) - архитектурные компоненты MVVM для mobile multiplatform;
 * [https://github.com/reduxkotlin/redux-kotlin](https://github.com/reduxkotlin/redux-kotlin) - redux для общего кода;
 * [https://github.com/oolong-kt/oolong](https://github.com/oolong-kt/oolong) - MVU архитектурные компоненты;
 * [https://github.com/DrewCarlson/kotlin-mobius](https://github.com/DrewCarlson/kotlin-mobius) - [Mobius](https://github.com/spotify/mobius) от spotify в multiplatform вариации;
@@ -68,12 +96,10 @@
 * [https://github.com/touchlab/FirestoreKMP](https://github.com/touchlab/FirestoreKMP) - firebase storage из общего кода.
 
 ### Reactive
-* [https://github.com/icerockdev/moko-mvvm](https://github.com/icerockdev/moko-mvvm) - LiveData с операторами;
 * [https://github.com/badoo/Reaktive](https://github.com/badoo/Reaktive) - Rx для общего кода (с поддержкой многопоточности в K/N);
 * [https://github.com/lightningkite/reacktive](https://github.com/lightningkite/reacktive) - реактивщина, но без многопоточности;
 * [https://github.com/noheltcj/RxCommon](https://github.com/noheltcj/RxCommon) - реактивщина, без многопоточности;
 * [https://github.com/andrewemery/livedata](https://github.com/andrewemery/livedata) - прямой конверт LiveData в mpp;
-* [https://github.com/mirego/trikot.streams](https://github.com/mirego/trikot.streams) - реактивные потоки, с многопоточностью;
 * [https://github.com/florent37/Multiplatform-LiveData](https://github.com/florent37/Multiplatform-LiveData) - порт LiveData в mpp;
 
 ### Multithreading
@@ -82,13 +108,11 @@
 * [https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/concurrency](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/concurrency) - многопоточность для общего кода в стиле требований K/N;
 
 ### Networking
-* [https://github.com/icerockdev/moko-network](https://github.com/icerockdev/moko-network) - генерация ktor-client api из OpenAPI спецификации;
 * [https://github.com/yshrsmz/kgql](https://github.com/yshrsmz/kgql) - GraphQL в общем коде - jvm/android/ios;
 * [https://github.com/lightningkite/kommunicate](https://github.com/lightningkite/kommunicate) - сетевая библиотека для [http](http) запросов и вебсокетов от комьюнити;
 * [https://github.com/luca992/kEasySocket](https://github.com/luca992/kEasySocket) - websocket - jvm/ios;
 
 ### DateTime
-* [https://github.com/korlibs/klock](https://github.com/korlibs/klock) - работа с датами и временем, включая таймзоны и форматирование;
 * [https://github.com/fluidsonic/fluid-time](https://github.com/fluidsonic/fluid-time) - работа с датами и временем, включая таймзоны;
 * [https://github.com/lightningkite/lokalize](https://github.com/lightningkite/lokalize) - информация о локали и простая работа со временем (без таймзон);
 * [https://github.com/MrAsterisco/Time](https://github.com/MrAsterisco/Time) - duration api;
@@ -96,31 +120,22 @@
 
 ### Logging
 * [https://github.com/AAkira/Napier](https://github.com/AAkira/Napier) - библиотека логирования для общего кода (Timber like);
-* [https://github.com/korlibs/klogger](https://github.com/korlibs/klogger) - библиотека логирования для общего кода;
 * [https://github.com/florent37/Multiplatform-Log](https://github.com/florent37/Multiplatform-Log) - логгер;
 
 ### Math
 * [https://github.com/ionspin/kotlin-multiplatform-bignum](https://github.com/ionspin/kotlin-multiplatform-bignum) - поддержка больших чисел (android, ios);
 * [https://github.com/lightningkite/recktangle](https://github.com/lightningkite/recktangle) - геометрические классы для математических расчетов;
-* [https://github.com/korlibs/kbignum](https://github.com/korlibs/kbignum) - bigint, bigdecimal;
 
 ### Dependency Injection
 * [https://github.com/Kodein-Framework/Kodein-DI](https://github.com/Kodein-Framework/Kodein-DI) - DI работающий в рантайме.
 
 ### Mobile specific
-* [https://github.com/icerockdev/moko-resources](https://github.com/icerockdev/moko-resources) - доступ к ресурсам локализации из общего кода;
-* [https://github.com/icerockdev/moko-permissions](https://github.com/icerockdev/moko-permissions) - работа с рантайм разрешениями из общего кода;
-* [https://github.com/icerockdev/moko-media](https://github.com/icerockdev/moko-media) - получение фото/видео из общего кода;
 * [https://github.com/Reedyuk/blue-falcon](https://github.com/Reedyuk/blue-falcon) - работа с Bluetooth LE;
 
 ### Others
-* [https://github.com/icerockdev/moko-core](https://github.com/icerockdev/moko-core) - базовые классы для mobile multiplatform;
 * [https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/cache](https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/cache) - inmem кеширование для общего кода;
 * [https://github.com/sellmair/kompass](https://github.com/sellmair/kompass) - роутинг в общем коде (но пока нет нормального примера под айос);
 * [https://github.com/benasher44/uuid](https://github.com/benasher44/uuid) - генерация UUID;
-* [https://github.com/korlibs/krypto](https://github.com/korlibs/krypto) - secureRandom, sha1, sha256, md5, hash, aes;
-* [https://github.com/korlibs/korim](https://github.com/korlibs/korim) - работа с изображениями разных форматов из общего кода;
-* [https://github.com/korlibs/korau](https://github.com/korlibs/korau) - работа с аудио файлами разных форматов из общего кода;
 * [https://github.com/florent37/Multiplatform-Bus](https://github.com/florent37/Multiplatform-Bus) - eventbus;
 
 ## Полезные плагины
