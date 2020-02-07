@@ -1,6 +1,6 @@
 # Kotlin Mobile MultiPlatform
-## Widget development sample (from Kotlin/Everywhere Nsk, in Russian)
-[Alex009/moko-template](https://github.com/Alex009/moko-template/tree/widgets)
+## moko widgets -  Multiplatform UI DSL
+* [https://github.com/icerockdev/moko-widgets](https://github.com/icerockdev/moko-widgets) - Multiplatform UI DSL with screen management in common code for mobile (android & ios) Kotlin Multiplatform development
 
 ## News about Kotlin MPP
 * Twitter about mobile multiplatform - [twitter.com/KotlinMPP](http://twitter.com/KotlinMPP)
@@ -12,6 +12,7 @@
 * Kotlin/Everywhere Minsk (Russian): ["iOS & Kotlin. An Application path from the very beggining to publish on AppStore" - Andrey Kovalev@IceRock](https://www.youtube.com/watch?v=h9ioWnSlUJc) - how to develop the first Kotlin Multiplatform project from iOS developer point of view;
 * Kotlin/Everywhere Minsk: ["Kotlin Multiplatform from the Manager point of view" - Alexandr Pogrebnyak@IceRock](https://www.youtube.com/watch?v=w546bAHoh3c) - how to sell multiplatform development to the technical manager;
 * Kotlin/Everywhere Minsk: ["Reaktive: reactive development on Kotlin Multiplatform" - Arkadii Ivanov@Badoo](https://www.youtube.com/watch?v=DJalTyA3p_w) - how to port Rx approach on kotlin multiplatform,what issues were and how to use it now.
+* Kotlin/Everywhere Novosibirsk: [Widget development live coding sample](https://github.com/Alex009/moko-template/tree/widgets)
 
 ## Useful Resources 
 * [https://kotlinlang.slack.com](https://kotlinlang.slack.com) (#kotlin-native , #multiplatform)
@@ -47,6 +48,7 @@
 * [https://github.com/jeremyrempel/gitnotes](https://github.com/jeremyrempel/gitnotes) - network, mobile;
 * [https://github.com/petrumo/KotlinMultiplatformMVI](https://github.com/petrumo/KotlinMultiplatformMVI) - mvi mobile, android, ios;
 * [https://github.com/felipehjcosta/chat-app] (https://github.com/felipehjcosta/chat-app) - Chat Multiplatform from Felipe Costa for Web, Android and iOS (Kotlin 1.3.61, common lib is using on android, ios, frontend (based on React but using Kotlin), a shared code between backend and client common lib, tests is in common lib) 
+* [https://github.com/joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace) - Minimal Kotlin Multiplatform project using Jetpack Compose and SwiftUI (now also includes WatchOS version!) 
 
 ## Official libraries
 * [https://github.com/Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - library for async code using (there is no multithreading in K/N yet);
