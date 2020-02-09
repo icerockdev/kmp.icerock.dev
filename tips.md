@@ -30,7 +30,7 @@ class MyView: UIView(frame = CGRectZero.readValue()) {
 
 ## Implement iOS protocol with same kotlin signature
 Objective-C and Swift can have protocols like this:
-```kotlin
+```objective-c
 @protocol WKNavigationDelegate <NSObject>
 
 @optional
