@@ -47,7 +47,7 @@
 * [Karumi/KotlinMultiplatformApp](https://github.com/Karumi/KotlinMultiplatformApp) - android, ios, ktor, coroutines, serialization, detekt, ktlint;
 * [jeremyrempel/gitnotes](https://github.com/jeremyrempel/gitnotes) - network, mobile;
 * [petrumo/KotlinMultiplatformMVI](https://github.com/petrumo/KotlinMultiplatformMVI) - mvi mobile, android, ios;
-* [felipehjcosta/chat-app] (https://github.com/felipehjcosta/chat-app) - Chat Multiplatform from Felipe Costa for Web, Android and iOS (Kotlin 1.3.61, common lib is using on android, ios, frontend (based on React but using Kotlin), a shared code between backend and client common lib, tests is in common lib) 
+* [felipehjcosta/chat-app](https://github.com/felipehjcosta/chat-app) - Chat Multiplatform from Felipe Costa for Web, Android and iOS (Kotlin 1.3.61, common lib is using on android, ios, frontend (based on React but using Kotlin), a shared code between backend and client common lib, tests is in common lib) 
 * [joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace) - Minimal Kotlin Multiplatform project using Jetpack Compose and SwiftUI (now also includes WatchOS version!) 
 
 ## Official libraries
